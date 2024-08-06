@@ -10,17 +10,17 @@
     <string name="Windows">Windows精简版</string>
     <string name="WindowsDescr">Windows是由微软开发的广泛使用的操作系统，以其图形用户界面和与软件、硬件的广泛兼容性而著称</string>
     <string name="DSLLinux">DSL Linux</string>
-    <string name="DSLLinuxDescr">An old open source light-weight OS with desktop gui, audio, network</string>
+    <string name="DSLLinuxDescr">一个旧的开源轻量级操作系统，具有桌面 GUI、音频、网络</string>
     <string name="Trinux">Trinux</string>
-    <string name="TrinuxDescr">An old open source command line OS with command line, audio, network</string>
+    <string name="TrinuxDescr">一个旧的开源命令行操作系统，具有命令行、音频、网络</string>
     <string name="Freedos">FreeDOS</string>
-    <string name="FreedosDescr">An active DOS compatible open source OS with command line, audio, network</string>
+    <string name="FreedosDescr">一个活跃的 DOS 兼容开源操作系统，具有命令行、音频、网络</string>
     <string name="KolibriOS">KolibriOS</string>
-    <string name="KolibriOSDescr">A ultra light weight open source OS with desktop gui, audio, network</string>
+    <string name="KolibriOSDescr">一个超轻量级开源操作系统，具有桌面 GUI、音频、网络</string>
     <string name="SlaxLinux">Slax Linux</string>
-    <string name="SlaxLinuxDescr">An active open source OS with desktop gui, audio, network</string>
+    <string name="SlaxLinuxDescr">一个活跃的开源操作系统，具有桌面 GUI、音频、网络</string>
     <string name="SlitazLinux">Slitaz Linux</string>
-    <string name="SlitazLinuxDescr">An active open source OS with desktop gui, audio, network</string>
-    <string name="VirtIODescr">"VirtIO 是一种用于虚拟化环境的标准化接口，为在 QEMU 上运行的 Windows 提供高性能的虚拟设备支持。  "</string>
+    <string name="SlitazLinuxDescr">一个活跃的开源操作系统，具有桌面 GUI、音频、网络</string>
+    <string name="VirtIODescr">VirtIO 是一种用于虚拟化环境的标准化接口，为在 QEMU 上运行的 Windows 提供高性能的虚拟设备支持。</string>
 
 </resources>
