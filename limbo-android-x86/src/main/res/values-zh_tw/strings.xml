@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Limbo Emulator Plus x86</string>
+    <string name="app_short_name">Limbo Plus x86</string>
+    <string name="DebianLinux">Debian Linux</string>
+    <string name="DebianLinuxDescr">一個活躍的基於 Linux 的開源作業系統，具有桌面 GUI、音訊、網路</string>
+    <string name="Ubuntu">Ubuntu</string>
+    <string name="UbuntuDescr">Ubuntu 是基於 Debian 的 Linux 作業系統，以其使用者友好的介面和開源基礎而聞名</string>
+    <string name="Windows">Windows 精簡版</string>
+    <string name="WindowsDescr">Windows 是由微軟開發的廣泛使用的作業系統，以其圖形使用者介面和與軟體、硬體的廣泛相容性而著稱</string>
+    <string name="DSLLinux">DSL Linux</string>
+    <string name="DSLLinuxDescr">一個舊的開源輕量級作業系統，具有桌面 GUI、音訊、網路</string>
+    <string name="Trinux">Trinux</string>
+    <string name="TrinuxDescr">一個舊的開源命令列作業系統，具有命令列、音訊、網路</string>
+    <string name="Freedos">FreeDOS</string>
+    <string name="FreedosDescr">一個活躍的 DOS 相容開源作業系統，具有命令列、音訊、網路</string>
+    <string name="KolibriOS">KolibriOS</string>
+    <string name="KolibriOSDescr">一個超輕量級開源作業系統，具有桌面 GUI、音訊、網路</string>
+    <string name="SlaxLinux">Slax Linux</string>
+    <string name="SlaxLinuxDescr">一個活躍的開源作業系統，具有桌面 GUI、音訊、網路</string>
+    <string name="SlitazLinux">Slitaz Linux</string>
+    <string name="SlitazLinuxDescr">一個活躍的開源作業系統，具有桌面 GUI、音訊、網路</string>
+    <string name="VirtIODescr">VirtIO 是一種用於虛擬化環境的標準化介面，為在 QEMU 上運行的 Windows 提供高效能的虛擬設備支援。</string>
+
+</resources>
